@@ -1,0 +1,23 @@
+This simple Program is used to control your PC WiFi and Bluetooth devices
+
+With WiFi Menu You Can:
+-----------------------
+1. Display WiFi Status
+2. Turn WiFi On
+3. Turn WiFi Off
+4. Connect to WiFi Network
+5. Remove a Saved Network
+6. Modify a Saved Network
+7. Search for a Network
+
+With Bluetooth Menu You Can:
+-----------------------
+1. Display Bluetooth Status
+2. Turn Bluetooth On
+3. Turn Bluetooth Off
+4. Connect to Bluetooth Device
+
+-----------------------------------------------------------
+To run the program just left click the APP.sh and run it as program.
+there is an image "How To Execute Program" in this directory clarifies this.
+-----------------------------------------------------------
